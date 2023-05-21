@@ -55,7 +55,7 @@ h1 {
 }
 
 .texto-negro {
-  color: #917977;
+  color: #af9694;
 }
 
 .texto-blanco {
@@ -363,7 +363,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid #c501e2 ;
 }
 
 .iconos-redes-sociales a:hover i {
@@ -372,7 +372,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: white;
   padding: 20px;
 }
 
