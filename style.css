@@ -65,7 +65,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color:#f5f6f7;
   min-height: 450px;
   text-align: center;
 }
@@ -82,9 +82,14 @@ h1 {
 
 .hero-principal h2 {
   font-size: 1.5rem;
-  color: #615151;
+  color: black ;
 }
-
+.hero-principal h1{
+  color: #af9694 ;
+}
+.hero-principal h2{
+  color: #af9694 ;
+}
 /* Sobre mi */
 
 .sobre-mi {
@@ -195,7 +200,7 @@ h1 {
 }
 
 .overlay i {
-  color: black;
+  color: #60374b;
   font-size: 60px;
   margin: 10px;
 }
@@ -270,7 +275,9 @@ h1 {
   font-size: 0.9rem;
   color: #656060;
 }
-
+.testimonios h2{
+  color: #af9694 ;
+}
 /* Contacto */
 
 .contacto .container {
